@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Berbuat baik
 - Tidak jahat
 - Tidak merokok
+- Jangan jahat
+- Belajar git
